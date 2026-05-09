@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\bin\Debug\net8.0\TestArray.exe
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\bin\Debug\net8.0\TestArray.deps.json
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\bin\Debug\net8.0\TestArray.runtimeconfig.json
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\bin\Debug\net8.0\TestArray.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\bin\Debug\net8.0\TestArray.pdb
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\obj\Debug\net8.0\TestArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\obj\Debug\net8.0\TestArray.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\obj\Debug\net8.0\TestArray.AssemblyInfo.cs
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\obj\Debug\net8.0\TestArray.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\obj\Debug\net8.0\TestArray.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\obj\Debug\net8.0\refint\TestArray.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\obj\Debug\net8.0\TestArray.pdb
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\obj\Debug\net8.0\TestArray.genruntimeconfig.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\TestArray\obj\Debug\net8.0\ref\TestArray.dll

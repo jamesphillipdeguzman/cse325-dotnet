@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\bin\Debug\net8.0\SubscriptionExpiry.exe
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\bin\Debug\net8.0\SubscriptionExpiry.deps.json
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\bin\Debug\net8.0\SubscriptionExpiry.runtimeconfig.json
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\bin\Debug\net8.0\SubscriptionExpiry.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\bin\Debug\net8.0\SubscriptionExpiry.pdb
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\obj\Debug\net8.0\SubscriptionExpiry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\obj\Debug\net8.0\SubscriptionExpiry.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\obj\Debug\net8.0\SubscriptionExpiry.AssemblyInfo.cs
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\obj\Debug\net8.0\SubscriptionExpiry.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\obj\Debug\net8.0\SubscriptionExpiry.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\obj\Debug\net8.0\refint\SubscriptionExpiry.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\obj\Debug\net8.0\SubscriptionExpiry.pdb
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\obj\Debug\net8.0\SubscriptionExpiry.genruntimeconfig.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\SubscriptionExpiry\obj\Debug\net8.0\ref\SubscriptionExpiry.dll

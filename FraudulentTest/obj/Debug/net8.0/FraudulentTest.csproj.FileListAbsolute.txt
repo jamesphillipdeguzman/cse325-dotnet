@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\bin\Debug\net8.0\FraudulentTest.exe
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\bin\Debug\net8.0\FraudulentTest.deps.json
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\bin\Debug\net8.0\FraudulentTest.runtimeconfig.json
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\bin\Debug\net8.0\FraudulentTest.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\bin\Debug\net8.0\FraudulentTest.pdb
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\obj\Debug\net8.0\FraudulentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\obj\Debug\net8.0\FraudulentTest.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\obj\Debug\net8.0\FraudulentTest.AssemblyInfo.cs
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\obj\Debug\net8.0\FraudulentTest.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\obj\Debug\net8.0\FraudulentTest.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\obj\Debug\net8.0\refint\FraudulentTest.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\obj\Debug\net8.0\FraudulentTest.pdb
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\obj\Debug\net8.0\FraudulentTest.genruntimeconfig.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\FraudulentTest\obj\Debug\net8.0\ref\FraudulentTest.dll

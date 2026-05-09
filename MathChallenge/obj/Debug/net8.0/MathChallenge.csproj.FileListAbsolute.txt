@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\obj\Debug\net8.0\MathChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\obj\Debug\net8.0\MathChallenge.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\obj\Debug\net8.0\MathChallenge.AssemblyInfo.cs
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\obj\Debug\net8.0\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\bin\Debug\net8.0\MathChallenge.exe
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\bin\Debug\net8.0\MathChallenge.deps.json
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\bin\Debug\net8.0\MathChallenge.runtimeconfig.json
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\bin\Debug\net8.0\MathChallenge.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\bin\Debug\net8.0\MathChallenge.pdb
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\obj\Debug\net8.0\MathChallenge.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\obj\Debug\net8.0\refint\MathChallenge.dll
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\obj\Debug\net8.0\MathChallenge.pdb
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\obj\Debug\net8.0\MathChallenge.genruntimeconfig.cache
+C:\Users\PC\OneDrive - Lucky mobile\Documents\.SCHOOL\BYU Idaho\2026\2026 Block 3\CSE325\ML_C#\CsharpProject\MathChallenge\obj\Debug\net8.0\ref\MathChallenge.dll
